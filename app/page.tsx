@@ -25,7 +25,10 @@ export default function Home() {
       <HowItWorksSection />
       <AIWorkflowSection />
       <CaseStudiesSection />
-      <BlogPreviewSection />
+      <BlogPreviewSection
+        title="From the Blog"
+        description="Latest insights and updates from our team"
+      />
       <CTASection />
     </>
   )
